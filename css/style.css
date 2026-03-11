@@ -1,5 +1,11 @@
 body {
-
+	font-family: "Noto Sans JP", sans-serif;
+	color: #FFFFFF;
+	background-image: url("../images/nightsky.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
 }
 
 h1 {
@@ -22,9 +28,7 @@ ul li {
 
 }
 
-td {
 
-}
 
 td, th {
 	border: 1px solid;
